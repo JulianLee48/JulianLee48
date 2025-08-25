@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me <img src="https://raw.githubusercontent.com/JulianLee48/JulianLee48/main/dog.gif" width="45">
 🛠 Currently working on: Building a full-stack anime social media app to practice React, Node.js, and REST APIs<br><br>🌱 Currently learning: React, Spring Boot, SQL, and full-stack development best practices<br><br>🤝 Looking to collaborate on: Small projects or hackathons where I can grow my skills and contribute to something fun<br><br>💬 Ask me about: Anime, web apps, and PC building 🖥️<br><br>⚡ Fun fact: I’m a Formula 1 fan and love building PC setups for gaming and development 🚀
 
 
